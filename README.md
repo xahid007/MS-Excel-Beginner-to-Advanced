@@ -41,3 +41,5 @@ Professional Master in IT, Faculty Member of Creative IT Institute, CBT&A (Level
 - Learn how to store multiple sets of Excel data in one table by learning Pivot Table
 - Prepare Reports using MS Excel and Prepare Spreadsheets as required
 - How to Unlock Dynamic Formulas like IF, VLOOKUP, INDEX, MATCH function, and more
+
+Course Link: https://www.grameenphone.academy/home/course/ms-excel-beginner-to-advanced/131
